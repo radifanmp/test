@@ -1,0 +1,9 @@
+Arif Rahman = Bogor
+Tri = Bandung
+Dian = Cianjur
+Saeful = Ciputat
+Rizki = Malang
+Mufid = Bandung
+Hidayat = Subang
+Heru = Bandung
+Damai = Bekasi
